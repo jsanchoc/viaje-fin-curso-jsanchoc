@@ -1,0 +1,14 @@
+Ropa:
+- 4 cambios de ropa
+- Chaqueta o abrigo
+- Ropa cómoda para caminar
+- Pijama
+Artículos personales:
+- Cepillo de dientes y pasta
+- Champú y gel
+- Medicamentos personales
+- Cargador de móvil
+Otros:
+- Cámara de fotos
+- Botella de agua
+- Dinero en efectivo
